@@ -13,7 +13,7 @@
 //  mnbpjuwbt lnb yt rasruwrkvr cwbp qmbm pmi hrxb kj djnlb
 //  bpmb bpr xjhhjcwko wi bpr sujsru msshwvmbwjk mkd
 //  wkbrusurbmbwjk w jxxru yt bprjuwri wk bpr pjsr bpmb bpr
-//  riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmvb
+//  riirkvr jx jqwkmcmk qmumbr cwhh urymwk wkbmv
 
 
 #include <stdio.h>
